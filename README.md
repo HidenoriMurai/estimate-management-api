@@ -54,10 +54,10 @@
 <details>
 <summary>データベース定義</summary>
 
-- データ構造
-  ![見積もりシステムデータ構造.png](image/dataStructure.png)
-- ER図
-  ![データベースER図.png](image/databaseER.png)
+**_データ構造_**
+![見積もりシステムデータ構造.png](image/dataStructure.png)
+**_ER図_**
+![データベースER図.png](image/databaseER.png)
 
 ※要sql定義ファイル参照
 </details>
