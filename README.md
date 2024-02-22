@@ -48,16 +48,16 @@
 <details>
 <summary>画面遷移</summary>
 
-![見積もり支援システム画面遷移.png](..%2Festimate%E9%96%A2%E4%BF%82%E7%B4%A0%E6%9D%90%2F%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB.png)
+![見積もり支援システム画面遷移.png](image/screenTransition.png)
 </details>
 
 <details>
 <summary>データベース定義</summary>
 
 - データ構造
-  ![見積もりシステム - データ構造.png](..%2Festimate%E9%96%A2%E4%BF%82%E7%B4%A0%E6%9D%90%2F%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%20-%20%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0.png)
+  ![見積もりシステムデータ構造.png](image/dataStructure.png)
 - ER図
-  ![データベース ER 図 (カラスの足記法).png](..%2F..%2FLibrary%2FCloudStorage%2FDropbox%2FMac%2FDownloads%2F%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%20ER%20%E5%9B%B3%20%28%E3%82%AB%E3%83%A9%E3%82%B9%E3%81%AE%E8%B6%B3%E8%A8%98%E6%B3%95%29.png)
+  ![データベースER図.png](image/databaseER.png)
 
 ※要sql定義ファイル参照
 </details>
